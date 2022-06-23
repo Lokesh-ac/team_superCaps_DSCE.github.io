@@ -21,7 +21,7 @@ header
   top:0;
   margin:0;
   width:100vw;
-  height:8vw;
+  height:8vh;
   background-color:#03b1fc;
 
 }
@@ -29,7 +29,7 @@ header
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  height: 8vw;
+  height: 8vh;
 
 }
 
